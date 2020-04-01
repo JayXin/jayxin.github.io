@@ -8,7 +8,9 @@
 
 html {
   font-size: 16px;
-  color: #212121; }
+  color: #212121; 
+  cursor: url("https://cdn.jsdelivr.net/gh/jayxin/jayxin.github.io/images/default.cur"),auto!important;
+}
 
 body, input, label, select, option, textarea, button, fieldset, legend {
   font-family: Consolas, Microsoft Jhenghei, Hiragino Sans GB, Microsoft YaHei; }
